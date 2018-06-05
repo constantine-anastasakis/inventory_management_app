@@ -1,4 +1,4 @@
-Inventory Management App
+# Inventory Management App
 
 This is a command-line Python application which allows the user to manage an inventory of products.
 
@@ -6,7 +6,7 @@ This application enables the user to performs all product "CRUD" operations: "Li
 
 Note: this application uses a CSV file datastore.
 
-Installation
+# Installation
 First, "fork" this upstream repository under your own control.
 
 Then download your forked version of this repository using the GitHub.com online interface or the Git command-line interface.
@@ -16,7 +16,7 @@ After downloading your forked repository, navigate into its root directory:
 cd path/to/inventory-mgmt-app-py/
 NOTE: all commands in this document assume you are running them from this root directory.
 
-Setup
+# Setup
 Before you run this application for the first time (or anytime you want to reset the database), reset the database by populating it with the default products:
 
 # For Homebrew-installed Python 3.x on Mac OS:
